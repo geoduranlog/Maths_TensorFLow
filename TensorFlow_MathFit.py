@@ -1,14 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sun Jun 13 12:00:30 2021
-
-@author: alejandro
-"""
-
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-""" ==========Circular Capital  Test============
+""" ==========TensorFlow simple maths fitting============
 @author: Alejandro Duran 
 
 SUMMARY:Solution of simple maths and Building Models (TensorFlow() )
